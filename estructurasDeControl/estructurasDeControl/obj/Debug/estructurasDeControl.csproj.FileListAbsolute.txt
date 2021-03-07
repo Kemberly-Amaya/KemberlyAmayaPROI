@@ -1,0 +1,10 @@
+C:\Users\kembe\OneDrive\Documentos\PrograI\estructurasDeControl\estructurasDeControl\bin\Debug\estructurasDeControl.exe.config
+C:\Users\kembe\OneDrive\Documentos\PrograI\estructurasDeControl\estructurasDeControl\bin\Debug\estructurasDeControl.exe
+C:\Users\kembe\OneDrive\Documentos\PrograI\estructurasDeControl\estructurasDeControl\bin\Debug\estructurasDeControl.pdb
+C:\Users\kembe\OneDrive\Documentos\PrograI\estructurasDeControl\estructurasDeControl\obj\Debug\estructurasDeControl.csprojAssemblyReference.cache
+C:\Users\kembe\OneDrive\Documentos\PrograI\estructurasDeControl\estructurasDeControl\obj\Debug\estructurasDeControl.Form1.resources
+C:\Users\kembe\OneDrive\Documentos\PrograI\estructurasDeControl\estructurasDeControl\obj\Debug\estructurasDeControl.Properties.Resources.resources
+C:\Users\kembe\OneDrive\Documentos\PrograI\estructurasDeControl\estructurasDeControl\obj\Debug\estructurasDeControl.csproj.GenerateResource.cache
+C:\Users\kembe\OneDrive\Documentos\PrograI\estructurasDeControl\estructurasDeControl\obj\Debug\estructurasDeControl.csproj.CoreCompileInputs.cache
+C:\Users\kembe\OneDrive\Documentos\PrograI\estructurasDeControl\estructurasDeControl\obj\Debug\estructurasDeControl.exe
+C:\Users\kembe\OneDrive\Documentos\PrograI\estructurasDeControl\estructurasDeControl\obj\Debug\estructurasDeControl.pdb
