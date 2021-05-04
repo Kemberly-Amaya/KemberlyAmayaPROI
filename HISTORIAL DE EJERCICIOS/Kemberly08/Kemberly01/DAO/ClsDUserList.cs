@@ -102,9 +102,9 @@ namespace Kemberly01.DAO
                     //Expresion Lamda
                     UserList userList = db.UserList.Where(x => x.IdUserList == Eliminar).Select(x => x).FirstOrDefault();
 
-
-                    // int Eliminar = Convert.ToInt32(txtId.Text);
-                    //userList = db.UserList.Find(Eliminar);
+                    //UserList userList = new UserList();
+                    //int Eliminar = Convert.ToInt32(txtId.Text);
+                    userList = db.UserList.Find(Eliminar);
                     db.UserList.Remove(userList);
                     db.SaveChanges();
 
